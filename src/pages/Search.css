@@ -1,0 +1,94 @@
+.Search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 80vh;
+}
+
+.Search-heading{
+    margin-right: 0;
+    text-align: center;
+    padding: 10px;
+    
+}
+  
+  .Search-form {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width:450px; /* Makes it responsive and centers within the page */
+    padding: 20px;
+}
+
+
+.form-item{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 10px;
+}
+
+select{
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+    font-size: clamp(13px, 2vw, 16px);
+    color: rgb(71, 71, 71);    
+}
+
+select:hover{
+    border-color: black;
+    border-width: 3px;
+    cursor: pointer;
+}
+
+input{
+    border-radius: 5px;
+    padding: 2px;
+    text-align: center;
+    font-size: clamp(13px, 2vw, 16px);
+    color: rgb(74, 75, 75);  
+    margin: 3px;  
+}
+
+.search-input:hover{
+    color: black;
+    cursor: pointer;
+}
+
+label{
+    padding: 5px;
+    font-weight: bold;
+    font-size: clamp(15px, 2vw, 19px);
+    margin-left: 0px;
+}
+
+.label2{
+    padding: 5px;
+    font-weight: 500;
+    font-size: medium;
+    font-size: clamp(14px, 2vw, 18px);
+    margin-left: 3px;
+    color: rgb(92, 90, 90);
+}
+
+button{
+    padding: 5px;
+    font-size: clamp(15px, 2vw, 18px);
+    border-radius: 5px;
+    color: rgb(255, 249, 249);
+    font-weight: bold;
+    width: 15vh;
+    background-color: rgb(29, 42, 54);
+
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 5px;
+    transform: scale(1.1);
+    font-weight: bolder;
+    border-width: 3px;
+}
