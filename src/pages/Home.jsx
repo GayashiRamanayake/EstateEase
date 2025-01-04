@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Home.css";
-import searchImage from '../images/search-home2.jpg';
-
+import searchImage from '../assets/search-home2.jpg';
 
 export default function Home() {
   return (
