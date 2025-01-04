@@ -5,7 +5,7 @@ export default function Search() {
   return (
     <div>
         <h1 className='Search-heading'>Believe in finding your perfect place with us</h1>
-        <div className='Search-container'>
+          <div className='Search-container'>
             <div className='Search-form'>
                 <form>
                     <div className="form">

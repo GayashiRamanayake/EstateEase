@@ -7,7 +7,7 @@ export default function Navbar() {
     <header className='header'>
       <div className="header-box">
 
-        <Link to='/home' className='link-list'>
+        <Link to='/HomePage' className='link-list'>
         <h1 className='header-logo'>
           <span className='header-logo-first'>Estate</span>
           <span className='header-logo-second'>Ease</span>
