@@ -8,28 +8,197 @@
 			"tenure":"Freehold",
 			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
 			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
-			"picture":"images/prop1pic1small.jpg",
+			"picture":"/PropImages/prop1/11.jpg",
+            "postalCode":"BR5",
 			"url":"properties/prop1.html",
             "added": {
                 "month":"October",
                 "day":12,
                 "year":2022
-            }
+            },
+            "pictures": [
+				"/PropImages/prop1/11.jpg",
+				"/PropImages/prop1/12.jpg",
+				"/PropImages/prop1/13.jpg",
+				"/PropImages/prop1/14.jpg",
+				"/PropImages/prop1/15.jpg"
+			]
         },
 		{
             "id":"prop2",
-			"type":"Flat",
+			"type":"House",
             "bedrooms":2,
 			"price":399995,
 			"tenure":"Freehold",
 			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
 			"location":"Crofton Road Orpington BR6",
 			"picture":"images/prop2pic1small.jpg",
+            "postalCode":"BR6",
 			"url":"properties/prop2.html",
             "added": {
                 "month":"September",
                 "day":14,
                 "year":2022
+            },
+            "pictures": [
+				"/PropImages/prop2/21.jpg",
+				"/PropImages/prop2/22.jpg",
+				"/PropImages/prop2/23.jpg",
+				"/PropImages/prop2/24.jpg",
+				"/PropImages/prop2/25.jpg",
+				"/PropImages/prop2/26.jpg"
+			]
+        },
+        {
+            "id": "prop3",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 850000,
+            "tenure": "Freehold",
+            "description": "A spacious four-bedroom detached house situated in a sought-after residential area. The property features a large living room, separate dining room, modern fitted kitchen, and a utility room. The master bedroom boasts an en-suite shower room. Additional features include a double garage, ample driveway parking, and a beautifully landscaped rear garden perfect for entertaining.",
+            "location": "Elm Grove, Beckenham, BR3",
+            "picture": "images/prop3pic1small.jpg",
+            "postalCode":"BR3",
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "August",
+                "day": 22,
+                "year": 2022
+            },
+            "pictures": [
+				"/PropImages/prop3/31.jpg",
+				"/PropImages/prop3/32.jpg",
+				"/PropImages/prop3/33.jpg",
+				"/PropImages/prop3/34.jpg",
+				"/PropImages/prop3/35.jpg"
+			]
+            
+        },
+        {
+            "id": "prop4",
+            "type": "House",
+            "bedrooms": 1,
+            "price": 275000,
+            "tenure": "Leasehold",
+            "description": "Bright and airy one-bedroom flat located close to local amenities and excellent transport links. The property features an open-plan living area with a modern kitchen, a double bedroom with built-in wardrobes, and a contemporary bathroom. Perfect for first-time buyers or investors.",
+            "location": "High Street, Bromley, BR1",
+            "picture": "images/prop4pic1small.jpg",
+            "postalCode":"BR1",
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "July",
+                "day": 10,
+                "year": 2022
+            },
+            "pictures": [
+				"/PropImages/prop4/41.jpg",
+				"/PropImages/prop4/42.jpg",
+				"/PropImages/prop4/43.jpg",
+				"/PropImages/prop4/44.jpg",
+				"/PropImages/prop4/45.jpg",
+				"/PropImages/prop4/46.jpg"
+			]
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 625000,
+            "tenure": "Freehold",
+            "description": "Charming three-bedroom detached bungalow offering spacious accommodation throughout. The property comprises a large lounge with patio doors opening to the garden, a fully fitted kitchen, a family bathroom, and a separate WC. The property benefits from a garage and off-street parking.",
+            "location": "Ash Lane, West Wickham, BR4",
+            "picture": "images/prop5pic1small.jpg",
+            "postalCode":"BR4",
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "June",
+                "day": 18,
+                "year": 2022
+            },
+            "pictures": [
+				"/PropImages/prop5/51.jpg",
+				"/PropImages/prop5/52.jpg",
+				"/PropImages/prop5/53.jpg",
+				"/PropImages/prop5/54.jpg",
+				"/PropImages/prop5/55.jpg",
+				"/PropImages/prop5/56.jpg"
+			]
+        },
+        {
+            "id": "prop6",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 350000,
+            "tenure": "Leasehold",
+            "description": "Well-maintained two-bedroom maisonette in a quiet residential area. The property boasts a large reception room, a modern kitchen, and a newly fitted bathroom. Outside, there is a private garden and allocated parking. Close to schools and transport links.",
+            "location": "Willow Drive, Hayes, BR5",
+            "picture": "images/prop6pic1small.jpg",
+            "postalCode":"BR5",
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "May",
+                "day": 5,
+                "year": 2022
+            },
+            "pictures": [
+				"/PropImages/prop6/61.jpg",
+				"/PropImages/prop6/62.jpg",
+				"/PropImages/prop6/63.jpg",
+				"/PropImages/prop6/64.jpg",
+				"/PropImages/prop6/65.jpg"
+			]
+        },
+        {
+            "id": "prop7",
+            "type": "Apartment",
+            "bedrooms": 3,
+            "price": 475000,
+            "tenure": "Freehold",
+            "description": "Stylish three-bedroom apartment offering luxury living with panoramic views of the city. The property includes a large open-plan kitchen/living area, master bedroom with en-suite, and two additional bedrooms. Secure entry system and underground parking available.",
+            "location": "Sunset Tower, Bromley South, BR2",
+            "picture": "images/prop7pic1small.jpg",
+            "postalCode":"BR2",
+            "url": "properties/prop7.html",
+            "added": {
+                "month": "April",
+                "day": 29,
+                "year": 2022
+            },
+            "pictures": [
+				"/PropImages/prop7/71.jpg",
+				"/PropImages/prop7/72.jpg",
+				"/PropImages/prop7/73.jpg",
+				"/PropImages/prop7/74.jpg",
+				"/PropImages/prop7/75.jpg",
+				"/PropImages/prop7/76.jpg"
+			]
+        },
+        {
+            "id": "prop8",
+            "type": "Townhouse",
+            "bedrooms": 4,
+            "price": 305000,
+            "tenure": "Leasehold",
+            "description": "A stylish four-bedroom townhouse located in a desirable area with excellent transport links. This modern property features an open-plan living and dining area, a fully equipped kitchen, and a private garden. The master bedroom includes an en-suite bathroom, and there is ample storage throughout. Perfect for families or professionals looking for a spacious and convenient home.",
+            "location": "Parkside Avenue, Bromley, BR3",
+            "picture": "images/prop8pic1small.jpg",
+            "postalCode":"BR3",
+            "url": "properties/prop8.html",
+            "added": {
+                "month": "March",
+                "day": 12,
+                "year": 2023
             }
+        },
+        {
+            "pictures": [
+				"/PropImages/prop8/81.jpg",
+				"/PropImages/prop8/82.jpg",
+				"/PropImages/prop8/83.jpg",
+				"/PropImages/prop8/84.jpg",
+				"/PropImages/prop8/85.jpg"
+			]
         }
-]}
+]
+}
+        
