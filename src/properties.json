@@ -34,7 +34,7 @@
 			"location":"Crofton Road Orpington BR6",
 			"picture":"images/prop2pic1small.jpg",
             "postalCode":"BR6",
-			"url":"properties/prop2.html",
+			"url":"/PropImages/prop2/21.jpg",
             "added": {
                 "month":"September",
                 "day":14,
@@ -57,7 +57,7 @@
             "tenure": "Freehold",
             "description": "A spacious four-bedroom detached house situated in a sought-after residential area. The property features a large living room, separate dining room, modern fitted kitchen, and a utility room. The master bedroom boasts an en-suite shower room. Additional features include a double garage, ample driveway parking, and a beautifully landscaped rear garden perfect for entertaining.",
             "location": "Elm Grove, Beckenham, BR3",
-            "picture": "images/prop3pic1small.jpg",
+            "picture": "/PropImages/prop3/31.jpg",
             "postalCode":"BR3",
             "url": "properties/prop3.html",
             "added": {
@@ -82,7 +82,7 @@
             "tenure": "Leasehold",
             "description": "Bright and airy one-bedroom flat located close to local amenities and excellent transport links. The property features an open-plan living area with a modern kitchen, a double bedroom with built-in wardrobes, and a contemporary bathroom. Perfect for first-time buyers or investors.",
             "location": "High Street, Bromley, BR1",
-            "picture": "images/prop4pic1small.jpg",
+            "picture": "/PropImages/prop4/41.jpg",
             "postalCode":"BR1",
             "url": "properties/prop4.html",
             "added": {
@@ -107,7 +107,7 @@
             "tenure": "Freehold",
             "description": "Charming three-bedroom detached bungalow offering spacious accommodation throughout. The property comprises a large lounge with patio doors opening to the garden, a fully fitted kitchen, a family bathroom, and a separate WC. The property benefits from a garage and off-street parking.",
             "location": "Ash Lane, West Wickham, BR4",
-            "picture": "images/prop5pic1small.jpg",
+            "picture": "/PropImages/prop5/51.jpg",
             "postalCode":"BR4",
             "url": "properties/prop5.html",
             "added": {
@@ -132,7 +132,7 @@
             "tenure": "Leasehold",
             "description": "Well-maintained two-bedroom maisonette in a quiet residential area. The property boasts a large reception room, a modern kitchen, and a newly fitted bathroom. Outside, there is a private garden and allocated parking. Close to schools and transport links.",
             "location": "Willow Drive, Hayes, BR5",
-            "picture": "images/prop6pic1small.jpg",
+            "picture": "/PropImages/prop6/61.jpg",
             "postalCode":"BR5",
             "url": "properties/prop6.html",
             "added": {
@@ -156,7 +156,7 @@
             "tenure": "Freehold",
             "description": "Stylish three-bedroom apartment offering luxury living with panoramic views of the city. The property includes a large open-plan kitchen/living area, master bedroom with en-suite, and two additional bedrooms. Secure entry system and underground parking available.",
             "location": "Sunset Tower, Bromley South, BR2",
-            "picture": "images/prop7pic1small.jpg",
+            "picture": "/PropImages/prop7/71.jpg",
             "postalCode":"BR2",
             "url": "properties/prop7.html",
             "added": {
@@ -181,7 +181,7 @@
             "tenure": "Leasehold",
             "description": "A stylish four-bedroom townhouse located in a desirable area with excellent transport links. This modern property features an open-plan living and dining area, a fully equipped kitchen, and a private garden. The master bedroom includes an en-suite bathroom, and there is ample storage throughout. Perfect for families or professionals looking for a spacious and convenient home.",
             "location": "Parkside Avenue, Bromley, BR3",
-            "picture": "images/prop8pic1small.jpg",
+            "picture": "/PropImages/prop8/81.jpg",
             "postalCode":"BR3",
             "url": "properties/prop8.html",
             "added": {

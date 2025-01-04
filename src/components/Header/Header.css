@@ -1,13 +1,38 @@
-.home-header{
-    height:85vh; /* Full screen height */
-    margin:15px auto;
-    margin-left: 20%;
-    margin-right: 20%;
-    background: url('/image3.jpg') no-repeat;
-    background-size: contain;
+
+.home-header {
+    height: 80vh; /* Full screen height */
+    width: 65%; /* Set a fixed width */
+    margin: 30px auto; /* Adjust vertical spacing */
+    padding-top: 5%;
+    background: url('/image3.jpg') no-repeat center center;
+    background-size: cover; /* Ensures full coverage */
     position: relative;
     align-items: center;
     border-radius: 30px;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 1024px) {
+    .home-header {
+        height: 70vh; /* Reduce height for tablets */
+        width: 80%; /* Make the container wider */
+        background-position: center top; /* Adjust the image alignment */
+    }
+}
+
+@media (max-width: 768px) {
+    .home-header {
+        height: 60vh; /* Further reduce height for smaller devices */
+        width: 90%; /* Nearly full width for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .home-header {
+        height: 50vh; /* Compact height for mobile */
+        width: 95%; /* Close to full width */
+        border-radius: 15px; /* Smaller border radius for smaller screens */
+    }
 }
 
 .header-content{
@@ -18,28 +43,26 @@
     gap: 0.5vw;
     max-width: 70%;
     left: 3vw;   
-    animation: fadeIn 3s;
+    animation: fadeIn 3s; 
 }
 
 .header-content h2{
-    font-weight: 400;
-    color: rgb(233, 233, 233);
+    font-weight: 500;
+    color: rgb(255, 255, 255);
     font-size: max(4vw,20px);
-    /* backdrop-filter: blur(4px); */
 }
 
 .header-content p{
     color: rgb(255, 255, 255);
-    font-weight: 200;
-    font-size: 1.1vw;
+    font-weight: 500;
+    font-size: 1.2vw;
     backdrop-filter: blur(2px);
 }
 
 .header-content h2 span{
-    font-weight: 500;
-    color: rgb(211, 220, 231);
+    font-weight: 600;
+    color: rgb(205, 219, 224);
     font-size: max(4vw,20px);
-    /* backdrop-filter: blur(4px);     */
 }
 
 .header-content button{
@@ -48,6 +71,7 @@
     background-color: white;
     font-weight: 900;
     padding: 5px 5px;
+    margin-top: 15px;
     margin-bottom: 5px;
     font-size: max(1vw,13px);
     border-radius: 10px;

@@ -125,26 +125,23 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Property Slider */}
-      <section className="slider-section">
-        <h2>Featured Properties</h2>
+      <div class="slider-content-container">
+    <div class="slider-section">
         <PropertySlider properties={properties} />
-      </section>
-
-      {/* Additional Content */}
-      <section className="about-section">
+    </div>
+    <div class="content-section">
         <h2>Why Choose Us?</h2>
         <p>
-          We offer a wide range of properties to suit every budget and lifestyle. With our
-          expert team and cutting-edge platform, finding your perfect home has never been
-          easier.
+            Discover your dream property with our exclusive listings. Whether you're looking for a cozy home or a luxury estate, we have something for everyone.
         </p>
         <ul>
-          <li>Wide selection of properties</li>
-          <li>Trusted by thousands of customers</li>
-          <li>24/7 customer support</li>
+            <li>Wide range of properties</li>
+            <li>Expert advice</li>
+            <li>Exceptional customer service</li>
         </ul>
-      </section>
+    </div>
+</div>
+
 
       {/* Footer Section */}
       <footer className="footer">

@@ -8,13 +8,12 @@
   
   /* Hero Section */
   .hero {
-    background: url('/images/hero-bg.jpg') no-repeat center center/cover;
-    color: white;
     text-align: center;
     padding: 50px 20px;
   }
   
   .hero h1 {
+    color: rgb(27, 37, 53);
     font-size: 2.5rem;
     margin-bottom: 20px;
   }
@@ -23,7 +22,28 @@
     font-size: 1.2rem;
     margin: 0 auto;
     max-width: 600px;
+    font-weight: 600;
   }
+
+  .slider-content-container {
+    display: flex; /* Arrange children side by side */
+    justify-content: space-between; /* Add space between slider and content */
+    align-items: center; /* Vertically align slider and content */
+    margin: 40px auto; /* Center the entire container horizontally */
+    gap: 20px; /* Add space between the slider and content */
+}
+
+.slider-section {
+    flex: 1; /* Allow the slider to take up equal space */
+    max-width: 60%; /* Optional: Limit slider width */
+}
+
+.content-section {
+    flex: 1; /* Allow the content to take up equal space */
+    max-width: 40%; /* Optional: Limit content width */
+    text-align: left; /* Align text to the left */
+}
+
   
   /* Slider Section */
   .slider-section {
