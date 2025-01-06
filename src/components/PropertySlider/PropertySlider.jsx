@@ -9,7 +9,7 @@ const PropertySlider = ({ properties }) => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % properties.length);
-    }, 3000);
+    }, 2000);
     return () => clearInterval(interval); // Cleanup interval on component unmount
   }, [properties.length]);
 

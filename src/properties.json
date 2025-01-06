@@ -17,7 +17,7 @@
                 "day":12,
                 "year":2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop1/11.jpg",
 				"/PropImages/prop1/12.jpg",
 				"/PropImages/prop1/13.jpg",
@@ -42,7 +42,7 @@
                 "day":14,
                 "year":2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop2/21.jpg",
 				"/PropImages/prop2/22.jpg",
 				"/PropImages/prop2/23.jpg",
@@ -68,7 +68,7 @@
                 "day": 22,
                 "year": 2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop3/31.jpg",
 				"/PropImages/prop3/32.jpg",
 				"/PropImages/prop3/33.jpg",
@@ -94,7 +94,7 @@
                 "day": 10,
                 "year": 2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop4/41.jpg",
 				"/PropImages/prop4/42.jpg",
 				"/PropImages/prop4/43.jpg",
@@ -120,7 +120,7 @@
                 "day": 18,
                 "year": 2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop5/51.jpg",
 				"/PropImages/prop5/52.jpg",
 				"/PropImages/prop5/53.jpg",
@@ -146,7 +146,7 @@
                 "day": 5,
                 "year": 2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop6/61.jpg",
 				"/PropImages/prop6/62.jpg",
 				"/PropImages/prop6/63.jpg",
@@ -171,7 +171,7 @@
                 "day": 29,
                 "year": 2022
             },
-            "pictures": [
+            "images": [
 				"/PropImages/prop7/71.jpg",
 				"/PropImages/prop7/72.jpg",
 				"/PropImages/prop7/73.jpg",
@@ -199,7 +199,7 @@
             }
         },
         {
-            "pictures": [
+            "images": [
 				"/PropImages/prop8/81.jpg",
 				"/PropImages/prop8/82.jpg",
 				"/PropImages/prop8/83.jpg",

@@ -2,24 +2,23 @@ import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Navbar from './components/NavBar/Navbar'; 
 import Search from './Search'; 
 import HomePage from './pages/Home/HomePage'; 
-import Properties from "./components/properties_page/Properties";
-import Property from "./components/properties_page/Property";
-import { FavoriteProvider } from './components/properties_page/FavoriteContext'; // Import FavoriteProvider
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PropertyPage from "./pages/properties/PropertyPage";
+import About from './pages/AboutUs/About';
+import Contact from './pages/Contact';
 
 export default function App() {
   return (
     <BrowserRouter>
-      <FavoriteProvider> {/* Wrap everything inside FavoriteProvider */}
         <Navbar /> 
         <Routes>
           <Route path="/" element={<HomePage />} /> 
           <Route path="/HomePage" element={<HomePage />} /> 
-          <Route path="/properties" element={<Properties />} />
-          <Route path="/Properties/:id" element={<Property />} />
           <Route path="/search" element={<Search />} /> 
+          <Route path="/properties/:id" element={<PropertyPage />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
-      </FavoriteProvider>
     </BrowserRouter>
   );
 }

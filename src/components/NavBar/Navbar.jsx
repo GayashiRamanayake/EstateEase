@@ -17,9 +17,8 @@ export default function Navbar() {
         <ul className="header-list">
           <Link to='/HomePage' className='link-list'><li className="header-list-item">Home</li></Link>
           <Link to='/search' className='link-list'><li className="header-list-item">Properties</li></Link>
-          <Link to='/properties' className='link-list'><li className="header-list-item">Service</li></Link>
-          <Link to='/rent' className='link-list'><li className="header-list-item">About us</li></Link>
-          <Link to='/contactus' className='link-list'><li className="header-list-item">Contact us</li></Link>
+          <Link to='/about' className='link-list'><li className="header-list-item">About Us</li></Link>
+          <Link to='/contact' className='link-list'><li className="header-list-item">Contact Us</li></Link>
         </ul>
 
       </div>

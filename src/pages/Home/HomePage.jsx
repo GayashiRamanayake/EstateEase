@@ -87,7 +87,7 @@ const HomePage = () => {
       {/* Footer Section */}
       <footer className="footer">
         <div className="footer-content">
-          <p>&copy; 2024 Dream Properties. All Rights Reserved.</p>
+          <p>&copy; 2025 EstateEase. All Rights Reserved.</p>
           <p>Follow us on:</p>
           <div className="social-icons">
             <a href="#">Facebook</a> | <a href="#">Twitter</a> | <a href="#">Instagram</a>
