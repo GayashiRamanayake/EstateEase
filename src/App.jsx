@@ -5,7 +5,7 @@ import HomePage from './pages/Home/HomePage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PropertyPage from "./pages/properties/PropertyPage";
 import About from './pages/AboutUs/About';
-import Contact from './pages/Contact';
+import Contact from './pages/ContactUs/Contact';
 
 export default function App() {
   return (

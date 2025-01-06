@@ -22,7 +22,7 @@
 
 @media (max-width: 768px) {
     .home-header {
-        height: 60vh; /* Further reduce height for smaller devices */
+        height: 60vh; /* reduce height for smaller devices */
         width: 90%; /* Nearly full width for smaller screens */
     }
 }
