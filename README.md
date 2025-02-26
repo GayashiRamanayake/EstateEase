@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+EastEstate - Your Ultimate Property Search Platform 🏡
+EastEstate is a modern React-based real estate platform that lets users search, explore, and save properties effortlessly. Features include advanced filters, an interactive image gallery, a favorites system, and dynamic property pages. Built with React, Bootstrap, and React Router for a seamless experience. 🚀
